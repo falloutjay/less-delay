@@ -1,22 +1,3 @@
---[[
-    Open Aimbot
-    Universal Open Source Aimbot
-    Release 1.7.4
-    ttwizz.su/pix
-    ttwizz.su/OpenAimbotV3rm
-
-    Author: ttwiz_z (ttwizz)
-    License: MIT
-    GitHub: https://github.com/ttwizz/Open-Aimbot
-
-    Issues: https://github.com/ttwizz/Open-Aimbot/issues
-    Pull requests: https://github.com/ttwizz/Open-Aimbot/pulls
-    Discussions: https://github.com/ttwizz/Open-Aimbot/discussions
-]]
-
-
---! Debugging
-
 local DEBUG = false
 
 if DEBUG then
@@ -175,7 +156,7 @@ end)
 
 do
     local Window = Fluent:CreateWindow({
-        Title = "Aimbot AFG",
+        Title = "Valoblox AFG",
         SubTitle = ".",
         TabWidth = 160,
         Size = UDim2.fromOffset(580, 460),
