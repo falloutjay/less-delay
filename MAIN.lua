@@ -156,7 +156,7 @@ end)
 
 do
     local Window = Fluent:CreateWindow({
-        Title = "Valoblox AFG",
+        Title = "Valblox AFG",
         SubTitle = ".",
         TabWidth = 160,
         Size = UDim2.fromOffset(580, 460),
